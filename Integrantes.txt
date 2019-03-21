@@ -1,0 +1,6 @@
+Proyecto de Progamación 2: Login
+
+Nombres:
+	Aragón Rugamas, Alejandro José		AR17092
+	Martínez Lima, Natalia Sofia		ML17002
+	García Hernandez, Carlos Eduardo	GH17045
